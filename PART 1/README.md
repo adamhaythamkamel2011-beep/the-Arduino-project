@@ -27,10 +27,10 @@ this is normal as it is in every Arduino program and is where everyone starts
 examples: servo, motor, or led and many other uses 
 
 ```
-# Arduino IED Version
+// Arduino IED Version
 const int servo
 
-# vs code version
+// vs code version
 
 #include <arduio.h>
 #include <servo.h>
