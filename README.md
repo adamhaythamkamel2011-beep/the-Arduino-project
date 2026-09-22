@@ -12,10 +12,12 @@ if you do not have a kit practice on: [wokiwi](https://wokwi.com/)
 ### you will need:
 
 #### vs code (with the platformio plugin)
-https://code.visualstudio.com/
+[virtual studio code](https://code.visualstudio.com/)
 ### or 
 #### Arduino Ied
-https://www.arduino.cc/en/software/
+[arduio LED softwair](https://www.arduino.cc/en/software/)
+
+if you do not have 
 
 # lessons structure
 ### we will have two different folders one for the wiring and one for the coding.
