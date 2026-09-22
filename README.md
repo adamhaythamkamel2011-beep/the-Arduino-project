@@ -14,7 +14,7 @@ if you do not have a kit practice on: [wokiwi](https://wokwi.com/)
 #### vs code (with the platformio plugin)
 [virtual studio code](https://code.visualstudio.com/)
 ### or 
-#### Arduino Ied
+#### Arduino Ied (won't be used in this tutorial)
 [arduio LED softwair](https://www.arduino.cc/en/software/)
 
 if you do not have a Arduino use [wokiwi](https://wokwi.com/)
