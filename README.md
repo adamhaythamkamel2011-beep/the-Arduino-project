@@ -17,7 +17,7 @@ if you do not have a kit practice on: [wokiwi](https://wokwi.com/)
 #### Arduino Ied
 [arduio LED softwair](https://www.arduino.cc/en/software/)
 
-if you do not have 
+if you do not have a Arduino use [wokiwi](https://wokwi.com/)
 
 # lessons structure
 ### we will have two different folders one for the wiring and one for the coding.
