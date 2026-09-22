@@ -32,5 +32,10 @@ const int servo
 
 # vs code version
 
-#include < 
+#include <arduio.h>
+#include <servo.h>
+```
+
+#### this is how we identify the arduio board in vs code but in Arduinos software its not needed
+
 
