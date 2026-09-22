@@ -8,6 +8,7 @@ this will be the area where all my project info and history will be at and will 
 
 <img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/1799b1fb-414f-4ea1-85ec-356008a78183" />
 
+if you do not have a kit practice on: [wokiwi](https://wokwi.com/)
 ### you will need:
 
 #### vs code (with the platformio plugin)
