@@ -5,18 +5,13 @@
 first you will see a consul like this when you first open 
 #### make sure you have platform
 ```
-#include <Arduino.h> // if you have vs code you will have to include this (to fix bugs without it, it won't identify the Arduino)
-                     // (no need for this of your using the Arduino software)
+#include <Arduino.h>
 
 void setup (){
-
-
 
 }
 
 void loop (){
-
-
 
 }
 ```
