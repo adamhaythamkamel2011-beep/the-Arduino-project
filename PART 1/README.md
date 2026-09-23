@@ -49,11 +49,3 @@ examples: servo, motor, or led and many other uses.
 void setup() {
 pinmode(12, output)
 }
-
-
-
-
-
-
-
-
