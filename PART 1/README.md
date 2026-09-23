@@ -7,6 +7,8 @@ first you will see a consul like this when you first open
 ```
 #include <Arduino.h>
 
+const int led = 12; //use the number for what pin you put it on
+
 void setup (){
 
 }
@@ -16,7 +18,23 @@ void loop (){
 }
 ```
 this is normal as it is in every Arduino program and is where everyone starts 
+for "const int" you can pick any identification but must use it later on. 
+example of led code to Turn on and off:
+```
+#include <arduino.h>
 
+const int led = 12;
+
+void setup () {
+pinmode(led, output);
+}
+void loop (){
+digitalwrite(led, HIGH);
+delay(1000)
+digitalwrite(led, LOW);
+delay(1000)
+}
+```
 ## Part Identification 
 #### identification is used for every Arduino and board for identifying contents that you connect to the board.
 examples: servo, motor, or led and many other uses. 
